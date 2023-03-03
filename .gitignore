@@ -1,0 +1,4 @@
+.env.local 
+# Ignore macOS files
+.DS_Store
+*.env
